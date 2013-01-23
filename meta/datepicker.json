@@ -1,0 +1,16 @@
+{
+  "datepicker-simple" : {
+    "requires" : [
+      "base",
+      "widget",
+      "datatype-date-format",
+      "datatype-date-math"
+    ]
+  },
+  "datepicker-simple-form" : {
+    "requires" : [
+      "datepicker-simple",
+      "button-plugin"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name"   : "datepicker",
+  "builds" : {
+    "datepicker-simple" : {
+      "jsfiles" : [
+        "simple.js"
+      ]
+    },
+    "datepicker-simple-form" : {
+      "jsfiles" : [
+        "simple-form.js"
+      ]
+    }
+  }
+}
